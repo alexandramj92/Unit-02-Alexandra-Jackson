@@ -19,7 +19,7 @@
 }
 
 
-a {
+a.nav-link {
     transition: 0.3s ease;
     background: #ffffff;
     color: #ffffff;
@@ -29,7 +29,7 @@ a {
    
   }
 
-  a:hover {
+  a.nav-link:hover {
     border-top: 2px solid #4aaaa5;
     border-bottom: 2px solid #4aaaa5;
     padding: 6px 0; 
