@@ -310,13 +310,13 @@ form{
         -ms-flex-direction: column!important;
         flex-direction: column!important;
     }
-
+/* 
      a.navbar-brand{
         width: 105%;
         margin-bottom: 10px;
         margin-left: 0;
         margin-right: 0;
-    } 
+    }  */
 
     #bio-pic{
         width: 100% !important;
