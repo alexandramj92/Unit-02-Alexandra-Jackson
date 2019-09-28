@@ -3,8 +3,8 @@
 ## Description 
 
 
-![GitHub Logo](/assets/images/portrait_alex.jpg)
-Format: ![Alt Text](url)
+![Alt text](/assets/images/portrait_alex.jpg)
+
 
 
 ## Installation
