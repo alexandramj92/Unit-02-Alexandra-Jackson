@@ -2,12 +2,15 @@
 
 ## Description 
 
-The purpose for this website is to give a brief introduction to myself, showcase my projects, and enable people to contact me. 
+The purpose for this website is to give a brief introduction of myself, showcase my projects, and enable people to contact me. 
 
 The website is structured into three sections:
-    -[About Me](https://alexandramj92.github.io/Unit-02-Alexandra-Jackson/index.html)
-    -[Portfolio](https://alexandramj92.github.io/Unit-02-Alexandra-Jackson/portfolio.html)
-    -[Contact](https://alexandramj92.github.io/Unit-02-Alexandra-Jackson/contact.html)
+
+[About Me](https://alexandramj92.github.io/Unit-02-Alexandra-Jackson/index.html)
+
+[Portfolio](https://alexandramj92.github.io/Unit-02-Alexandra-Jackson/portfolio.html)
+
+[Contact](https://alexandramj92.github.io/Unit-02-Alexandra-Jackson/contact.html)
 
 The website is also designed to be responsive. I have illustrated how they should appear at different screen sizes below. 
 
