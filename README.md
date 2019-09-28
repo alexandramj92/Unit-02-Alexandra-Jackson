@@ -5,13 +5,54 @@
 The purpose for this website is to give a brief introduction to myself, showcase my projects, and enable people to contact me. 
 
 The website is structured into three sections:
-    *[About Me](https://www.google.com)
-    *Portfolio
-    *Contact
+    * [About Me](https://alexandramj92.github.io/Unit-02-Alexandra-Jackson/index.html)
+    * [Portfolio](https://alexandramj92.github.io/Unit-02-Alexandra-Jackson/portfolio.html)
+    * [Contact](https://alexandramj92.github.io/Unit-02-Alexandra-Jackson/contact.html)
 
+The website is also designed to be responsive. I have illustrated how they should appear at different screen sizes below. 
+
+### About Me 
+
+Large screen size 
 
 ![Alt text](assets/images/readMe/about-me-lg.JPG)
 
+Medium screen size
+
+![Alt text](assets/images/readMe/about-me-md.JPG)
+
+Small screen size
+
+![Alt text](assets/images/readMe/about-me-sm.JPG)
+
+### Portfolio
+
+Large screen size 
+
+![Alt text](assets/images/readMe/portfolio-lg.JPG)
+
+Medium screen size
+
+![Alt text](assets/images/readMe/portfolio-md.JPG)
+
+Small screen size
+
+![Alt text](assets/images/readMe/portfolio-sm.JPG)
+
+
+### Contact
+
+Large screen size 
+
+![Alt text](assets/images/readMe/contact-lg.JPG)
+
+Medium screen size
+
+![Alt text](assets/images/readMe/contact-md.JPG)
+
+Small screen size
+
+![Alt text](assets/images/readMe/contact-sm.JPG)
 
 
 ## Installation
