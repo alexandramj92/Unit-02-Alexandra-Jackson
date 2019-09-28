@@ -3,7 +3,7 @@
 ## Description 
 
 
-![Alt text](/assets/images/portrait_alex.jpg)
+![Alt text](assets/images/portrait_alex.jpg)
 
 
 
