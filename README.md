@@ -2,6 +2,13 @@
 
 ## Description 
 
+The purpose for this website is to give a brief introduction to myself, showcase my projects, and enable people to contact me. 
+
+The website is structured into three sections:
+    *[About Me](https://www.google.com)
+    *Portfolio
+    *Contact
+
 
 ![Alt text](assets/images/readMe/about-me-lg.JPG)
 
