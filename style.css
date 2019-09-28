@@ -130,8 +130,6 @@ footer {
     background: #ffffff;
     width: 960px;
     height: auto;
-    /* padding-top: 20px;
-    padding-bottom: 20px; */
     padding: 20px 20px 20px 20px;
     margin-top: 30px;  
     margin-bottom: 100px;
@@ -175,12 +173,12 @@ footer {
 }
 
 .project1, .project2, .project3, .project4, .project5{
-    width: 200px;
-    height: 200px;
+    width: 180px;
+    height: 180px;
     color: #fff;
     background-size: cover;
     background-repeat: no-repeat;
-    margin-right: 30px;
+    margin-right: 40px;
     margin-bottom: 20px;
 
 }
@@ -188,8 +186,8 @@ footer {
 
 #div1, #div2, #div3, #div4, #div5{
 
-    padding: 15px;
-    margin-top: 100px;
+    padding: 10px;
+    margin-top: 90px;
     background: #4aaaa5;
     font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
     color: #ffffff;
@@ -229,7 +227,7 @@ footer {
 /* Styling for Contact Container Start */
 
 textarea{
-    height: 200px;
+    height: 150px;
 }
 
 
@@ -310,13 +308,13 @@ form{
         -ms-flex-direction: column!important;
         flex-direction: column!important;
     }
-/* 
+
      a.navbar-brand{
         width: 105%;
         margin-bottom: 10px;
         margin-left: 0;
         margin-right: 0;
-    }  */
+    } 
 
     #bio-pic{
         width: 100% !important;
